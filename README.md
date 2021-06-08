@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Senior Computer Engineering Student from Ankara, Turkey.
+  Software Engineer from Ankara, Turkey.
 </p>&nbsp;&nbsp;
 
 <p align='center'>
