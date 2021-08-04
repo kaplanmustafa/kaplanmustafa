@@ -18,7 +18,6 @@
 
 <p align='center'>
   - 🔭 I’m currently working on Java Spring and React&nbsp;&nbsp;
-  - 🌱 I’m currently learning React
 </p>&nbsp;&nbsp;
 
 <p align='center'>
